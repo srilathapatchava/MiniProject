@@ -1,5 +1,5 @@
 # MiniProject
-This project report presents a methodology for stance detection using a graphbased approach combined with machine learning techniques. The methodology 
+This project report presents a methodology for stance detection using a graph based approach combined with machine learning techniques. The methodology 
 involves generating a graph structure from the dataset, applying the deep walk 
 algorithm for node embeddings, and utilizing a classifier such as logistic regression or 
 SVM for node classification. The node embeddings are trained on the stance 
